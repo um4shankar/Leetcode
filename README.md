@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/um4shankar/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/um4shankar/Leetcode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/um4shankar/Leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/um4shankar/Leetcode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/um4shankar/Leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/um4shankar/Leetcode/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/um4shankar/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
