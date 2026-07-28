@@ -1,32 +1,27 @@
 class Solution {
 public:
     string smallestPalindrome(string s) {
-        sort(s.begin(), s.end());
-
-        map<char, int> freq;
+        vector<int> freq(26, 0);
 
         for (char ch : s) {
-            freq[ch]++;
+            freq[ch - 'a']++;
         }
 
-        string s1 = "";
-        string s2 = "";
-        string odd = "";
+        string left = "";
+        string middle = "";
 
-        for (auto &it : freq) {
-            if (it.second % 2 != 0) {
-                odd = string(1, it.first);
-                it.second--;
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] % 2) {
+                middle = char(i + 'a');
+                freq[i]--;
             }
 
-            while (it.second > 0) {
-                s1 += it.first;
-                s2 += it.first;
-                it.second -= 2;
-            }
+            left.append(freq[i] / 2, char(i + 'a'));
         }
 
-        reverse(s2.begin(), s2.end());
-        return s1 + odd + s2;
+        string right = left;
+        reverse(right.begin(), right.end());
+
+        return left + middle + right;
     }
 };
