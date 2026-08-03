@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/um4shankar/Leetcode/tree/master/0016-3sum-closest) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/um4shankar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um4shankar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/um4shankar/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/um4shankar/Leetcode/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um4shankar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/um4shankar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/um4shankar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/um4shankar/Leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/um4shankar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/um4shankar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/um4shankar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
