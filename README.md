@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/um4shankar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/um4shankar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/um4shankar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0686-repeated-string-match](https://github.com/um4shankar/Leetcode/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/um4shankar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um4shankar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/um4shankar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/um4shankar/Leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/um4shankar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/um4shankar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/um4shankar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/um4shankar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
