@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/um4shankar/Leetcode/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/um4shankar/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/um4shankar/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/um4shankar/Leetcode/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/um4shankar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um4shankar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/um4shankar/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/um4shankar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/um4shankar/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/um4shankar/Leetcode/tree/master/0055-jump-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/um4shankar/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/um4shankar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/um4shankar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/um4shankar/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/um4shankar/Leetcode/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/um4shankar/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
