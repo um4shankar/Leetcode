@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/um4shankar/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/um4shankar/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/um4shankar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/um4shankar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/um4shankar/Leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/um4shankar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/um4shankar/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/um4shankar/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/um4shankar/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/um4shankar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/um4shankar/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/um4shankar/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/um4shankar/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/um4shankar/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
