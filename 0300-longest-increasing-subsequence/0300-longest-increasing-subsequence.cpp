@@ -3,9 +3,7 @@ public:
     vector<int> dp;
 
     int lis(int i, vector<int>& nums) {
-        if (dp[i] != -1)
-            return dp[i];
-
+        if (dp[i] != -1) return dp[i];
         int ans = 1;
         for (int j = 0; j < i; ++j) {
             if (nums[j] < nums[i]) {
