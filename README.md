@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/um4shankar/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/um4shankar/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/um4shankar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0198-house-robber](https://github.com/um4shankar/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um4shankar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/um4shankar/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/um4shankar/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/um4shankar/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/um4shankar/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/um4shankar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/um4shankar/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/um4shankar/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/um4shankar/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
