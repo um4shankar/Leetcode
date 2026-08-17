@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/um4shankar/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/um4shankar/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/um4shankar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/um4shankar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/um4shankar/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/um4shankar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/um4shankar/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/um4shankar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/um4shankar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/um4shankar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/um4shankar/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/um4shankar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/um4shankar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/um4shankar/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/um4shankar/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/um4shankar/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
