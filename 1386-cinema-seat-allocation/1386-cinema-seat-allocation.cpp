@@ -6,11 +6,9 @@ public:
         for (int i = 0; i < reservedSeats.size(); ++i) {
             int row = reservedSeats[i][0];
             int seat = reservedSeats[i][1];
-
             if (occupied.find(row) == occupied.end()) {
                 occupied[row] = vector<int>(3, 0);
             }
-
             if (seat == 2 || seat == 3) {
                 occupied[row][0] = 1;
             }
@@ -26,18 +24,13 @@ public:
                 occupied[row][2] = 1;
             }
         }
-
         long long sum = 2LL * n;
-
         for (auto& row : occupied) {
             int sum1 = 0;
-
             for (int j = 0; j < 3; ++j) {
                 sum1 += row.second[j];
             }
-
             if (sum1 == 0) {
-                // Already counted as 2
                 continue;
             }
             else if (sum1 == 3) {
@@ -47,7 +40,6 @@ public:
                 sum -= 1;
             }
         }
-
         return sum;
     }
 };
