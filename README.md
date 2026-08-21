@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/um4shankar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/um4shankar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/um4shankar/Leetcode/tree/master/0877-stone-game) |
+| [1002-find-common-characters](https://github.com/um4shankar/Leetcode/tree/master/1002-find-common-characters) |
 | [1260-shift-2d-grid](https://github.com/um4shankar/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/um4shankar/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/um4shankar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/um4shankar/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/um4shankar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/um4shankar/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1002-find-common-characters](https://github.com/um4shankar/Leetcode/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/um4shankar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um4shankar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/um4shankar/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/um4shankar/Leetcode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/um4shankar/Leetcode/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/um4shankar/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1002-find-common-characters](https://github.com/um4shankar/Leetcode/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um4shankar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/um4shankar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/um4shankar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
