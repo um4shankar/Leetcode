@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/um4shankar/Leetcode/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/um4shankar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/um4shankar/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/um4shankar/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/um4shankar/Leetcode/tree/master/2029-stone-game-ix) |
 | [2498-frog-jump-ii](https://github.com/um4shankar/Leetcode/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/um4shankar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/um4shankar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1002-find-common-characters](https://github.com/um4shankar/Leetcode/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um4shankar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/um4shankar/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/um4shankar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/um4shankar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/um4shankar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/um4shankar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/um4shankar/Leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/um4shankar/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/um4shankar/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/um4shankar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/um4shankar/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/um4shankar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/um4shankar/Leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/um4shankar/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/um4shankar/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/um4shankar/Leetcode/tree/master/2029-stone-game-ix) |
 ## Longest Increasing Subsequence
 |  |
