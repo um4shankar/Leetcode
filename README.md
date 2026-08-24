@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/um4shankar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/um4shankar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/um4shankar/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/um4shankar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/um4shankar/Leetcode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/um4shankar/Leetcode/tree/master/0686-repeated-string-match) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/um4shankar/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/um4shankar/Leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/um4shankar/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/um4shankar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/um4shankar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/um4shankar/Leetcode/tree/master/0877-stone-game) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/um4shankar/Leetcode/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/um4shankar/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/um4shankar/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/um4shankar/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/um4shankar/Leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/um4shankar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/um4shankar/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/um4shankar/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
