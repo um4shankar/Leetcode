@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/um4shankar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/um4shankar/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/um4shankar/Leetcode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/um4shankar/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/um4shankar/Leetcode/tree/master/0877-stone-game) |
 | [1002-find-common-characters](https://github.com/um4shankar/Leetcode/tree/master/1002-find-common-characters) |
 | [1260-shift-2d-grid](https://github.com/um4shankar/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/um4shankar/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/um4shankar/Leetcode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/um4shankar/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/um4shankar/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Trie
 |  |
