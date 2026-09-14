@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/um4shankar/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/um4shankar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/um4shankar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/um4shankar/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/um4shankar/Leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/um4shankar/Leetcode/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/um4shankar/Leetcode/tree/master/1927-sum-game) |
@@ -416,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/um4shankar/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/um4shankar/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
