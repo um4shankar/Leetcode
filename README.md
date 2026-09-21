@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/um4shankar/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/um4shankar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/um4shankar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/um4shankar/Leetcode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/um4shankar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/um4shankar/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/um4shankar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/um4shankar/Leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/um4shankar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/um4shankar/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/um4shankar/Leetcode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/um4shankar/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/um4shankar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/um4shankar/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/um4shankar/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/um4shankar/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/um4shankar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/um4shankar/Leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/um4shankar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/um4shankar/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/um4shankar/Leetcode/tree/master/0877-stone-game) |
@@ -440,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/um4shankar/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/um4shankar/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
