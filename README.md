@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/um4shankar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/um4shankar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/um4shankar/Leetcode/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/um4shankar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/um4shankar/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/um4shankar/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/um4shankar/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um4shankar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/um4shankar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/um4shankar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/um4shankar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/um4shankar/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/um4shankar/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/um4shankar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/um4shankar/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/um4shankar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/um4shankar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/um4shankar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2498-frog-jump-ii](https://github.com/um4shankar/Leetcode/tree/master/2498-frog-jump-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/um4shankar/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Tree
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/um4shankar/Leetcode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um4shankar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/um4shankar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/um4shankar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/um4shankar/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/um4shankar/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/um4shankar/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/um4shankar/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/um4shankar/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/um4shankar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/um4shankar/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/um4shankar/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/um4shankar/Leetcode/tree/master/3903-smallest-stable-index-i) |
