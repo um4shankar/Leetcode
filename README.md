@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/um4shankar/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/um4shankar/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/um4shankar/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/um4shankar/Leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/um4shankar/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/um4shankar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/um4shankar/Leetcode/tree/master/0198-house-robber) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/um4shankar/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/um4shankar/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/um4shankar/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/um4shankar/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/um4shankar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/um4shankar/Leetcode/tree/master/0202-happy-number) |
