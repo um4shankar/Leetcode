@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/um4shankar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/um4shankar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/um4shankar/Leetcode/tree/master/1563-stone-game-v) |
+| [1630-arithmetic-subarrays](https://github.com/um4shankar/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/um4shankar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/um4shankar/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/um4shankar/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/um4shankar/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/um4shankar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/um4shankar/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1630-arithmetic-subarrays](https://github.com/um4shankar/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/um4shankar/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/um4shankar/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/um4shankar/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/um4shankar/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/um4shankar/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/um4shankar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1630-arithmetic-subarrays](https://github.com/um4shankar/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/um4shankar/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/um4shankar/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/um4shankar/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
